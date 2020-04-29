@@ -1,3 +1,10 @@
+参考
+==========
++ [如何制作NES模拟器](https://blog.chaofan.io/archives/%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9Cnes%E6%A8%A1%E6%8B%9F%E5%99%A8)
++ [[译] 400 行 C 代码实现一个虚拟机（2018）](http://arthurchiao.art/blog/write-your-own-virtual-machine-zh/)
+
+----
+
 SimpleNES
 =============
 
